@@ -10,7 +10,7 @@ This is my very own screen recorderer build using Electron, which uses NodeJS an
 
 - Electron provides great performance and security as the two processes are completely isolated from each other and the communication between them is done through IPC (Inter-Process Communication) through the APIs exposed in preload.js file.
 
-- Electron is bundled with chrominum which ensures that every system has the same user experience and can be used on all platforms like linux, windows and macOS.
+- Electron is bundled with chromium which ensures that every system has the same user experience and can be used on all platforms like linux, windows and macOS.
 
 - Electron also includes a bundler which allows us to build the application for all platforms in a single command.
 
